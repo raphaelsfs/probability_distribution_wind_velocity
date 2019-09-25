@@ -1,0 +1,8 @@
+# col. 01 : Year
+# col. 02 : Month
+# col. 03 : Day
+# col. 04 : Hour
+#
+# col. 05->06 : Horizontal wind SPEED (m/s)
+# col. 05 : Wind speed at 40m AGL (above ground level)
+# col. 06 : Wind speed at 140m AGL
